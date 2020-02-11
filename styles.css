@@ -91,7 +91,7 @@ header{
 
 
 /* maldito polygon  */
-.svg {
+svg {
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -109,7 +109,7 @@ header{
 
 .container-podcast{
     margin: 26px 0 0 0;
-    display: flex;
+    display: flex; 
     flex-direction: row;
     justify-content: space-evenly;
     flex-basis: 50%;
